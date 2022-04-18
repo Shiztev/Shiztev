@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey!
 
-<!--
-**Shiztev/Shiztev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stevie, and I'm interested in firmware, software, and archetectural stuff.
 
-Here are some ideas to get you started:
+- 💖 I love writing in Rust and C. Python and Java are fun too!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏔 Snowboarding and Rock climbing are a blast!
+
+- 🎓 I'm in Rochester Institute of Technology's class of 2025, studying Computer Science
+
+- 📫 Ask me anything! <a href="mailto: sda1341@rit.edu">Email</a> | <a href="https://www.linkedin.com/in/stevie-alvarez/">LinkedIn</a>
+
+- 😁 My pronouns are He / Him
