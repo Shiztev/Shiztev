@@ -12,4 +12,4 @@ I'm Stevie, and I'm interested in firmware, software, and archetectural stuff.
 
 - 😁 My pronouns are He / Him
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiztev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Stevie's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiztev&layout=compact&theme=radical&hide_border=true" alt="Stevie's top languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiztev&layout=compact&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Stevie's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiztev&layout=compact&theme=radical&hide_border=true" alt="Stevie's top languages"/>
