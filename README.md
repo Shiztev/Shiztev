@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Stevie, and I'm interested in firmware, software, and archetectural stuff.
+I'm Stevie, and I'm interested in firmware, software, and architectural stuff.
 
 - 💖 I love writing in Rust and C. Python and Java are fun too!
 
@@ -16,8 +16,7 @@ I'm Stevie, and I'm interested in firmware, software, and archetectural stuff.
 
 <div align="center">
   <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiztev&layout=compact&cache_seconds=300&include_all_commits=true&count_private=false&line_height=27&theme=radical&show_icons=true&hide_border=true" alt="Stevie's stats"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiztev&layout=compact&theme=radical&cache_seconds=300&hide_border=true&count_private=false" alt="Stevie's top languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiztev&layout=donut&theme=radical&cache_seconds=300&hide_border=true&count_private=false" alt="Stevie's top languages"/>
     </br>
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
   <div>
